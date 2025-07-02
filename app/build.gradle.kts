@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace = "com.jorbijor.com"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.jorbijor.com"
         minSdk = 24
-        targetSdk = 35
-        versionCode = 3
-        versionName = "3.0"
+        targetSdk = 36
+        versionCode = 5
+        versionName = "5.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
