@@ -11,8 +11,8 @@ android {
         applicationId = "com.jorbijor.com"
         minSdk = 24
         targetSdk = 36
-        versionCode = 15
-        versionName = "15.0"
+        versionCode = 20
+        versionName = "20.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
